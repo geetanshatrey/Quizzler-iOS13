@@ -1,5 +1,5 @@
 
-<img src="Documentation/Logo.png" width="500" height="500">
+<img src="Documentation/Logo.png" height="500">
 
 #  Quizzler
 
@@ -13,17 +13,9 @@
 
 ## App Screenshots
 
-### First Question
+### First Question | Correct Answer | Wrong Answer
 
-<img src="Documentation/1stQ.png" width="250" height="500">
-
-### Correct Answer
-
-<img src="Documentation/CorrectAnswer.png" width="250" height="500">
-
-### Wrong Answer
-
-<img src="Documentation/WrongAnswer.png" width="250" height="500">
+<img src="Documentation/1stQ.png" width="250" height="500"><img src="Documentation/CorrectAnswer.png" width="250" height="500"><img src="Documentation/WrongAnswer.png" width="250" height="500">
 
 ### Random Question
 
