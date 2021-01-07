@@ -15,12 +15,11 @@
 
 ## App Screenshots
 
-### 1) First Question
-
  | <img src="Documentation/1stQ.png" width="250" height="500"> | <img src="Documentation/CorrectAnswer.png" width="250" height="500"> | <img src="Documentation/WrongAnswer.png" width="250" height="500"> |
  |:---:|:---:|:---:|
  
- | First Question | Correct Answer | Wrong Answer
-
-### 4) Random Question
-<img src="Documentation/RandomQ.png" width="250" height="500">
+ | First Question | Correct Answer | Wrong Answer |
+ 
+|<img src="Documentation/RandomQ.png" width="250" height="500">|
+|:---:|:---:|:---:|
+| Random Question |
