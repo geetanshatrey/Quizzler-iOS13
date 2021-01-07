@@ -1,5 +1,5 @@
 
-![Spiked Shark](Documentation/Logo.png){:height="50%" width="50%"}
+<img src="Documentation/Logo.png" width="100" height="100">
 
 #  Quizzler
 
