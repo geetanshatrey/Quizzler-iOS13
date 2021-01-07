@@ -1,5 +1,5 @@
 
-![Spiked Shark](Documentation/Logo.png width="200" height="400")
+![Spiked Shark](Documentation/Logo.png){:height="50%" width="50%"}
 
 #  Quizzler
 
@@ -15,17 +15,17 @@
 
 ### First Question
 
-![1st Question](Documentation/1stQ.png width="200" height="400")
+![1st Question](Documentation/1stQ.png){:height="50%" width="50%"}
 
 ### Correct Answer
 
-![Spiked Shark](Documentation/CorrectAnswer.png width="200" height="400")
+![Spiked Shark](Documentation/CorrectAnswer.png){:height="50%" width="50%"}
 
 ### Wrong Answer
 
-![Spiked Shark](Documentation/WrongAnswer.png width="200" height="400")
+![Spiked Shark](Documentation/WrongAnswer.png){:height="50%" width="50%"}
 
 ### Random Question
 
-![Spiked Shark](Documentation/RandomQ.png width="200" height="400")
+![Spiked Shark](Documentation/RandomQ.png){:height="50%" width="50%"}
 
