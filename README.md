@@ -13,7 +13,7 @@
 
 ## App Screenshots
 
-### First Question | Correct Answer | Wrong Answer
+### First Question |       Correct Answer  |       Wrong Answer
 
 <img src="Documentation/1stQ.png" width="250" height="500"><img src="Documentation/CorrectAnswer.png" width="250" height="500"><img src="Documentation/WrongAnswer.png" width="250" height="500">
 
