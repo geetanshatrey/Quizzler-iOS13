@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="Documentation/Logo.png" height="500">
+    <img src="Documentation/Logo.png" height="400">
 </p>
 
 #  Quizzler
@@ -18,6 +18,6 @@
  | <img src="Documentation/1stQ.png" width="250" height="500"> (First Question) | <img src="Documentation/CorrectAnswer.png" width="250" height="500"> (Correct Answer) | <img src="Documentation/WrongAnswer.png" width="250" height="500"> (Wrong Answer)|
  |:---:|:---:|:---:|
  
- <img src="Documentation/RandomQ.png" width="250" height="500"> (Random Question ) |
- |:---:|
+ <img src="Documentation/RandomQ.png" width="250" height="500"> (Random Question - 1) |<img src="Documentation/RandomQ2.png" width="250" height="500"> (Random Question - 2) |
+ |:---:|:---:|
  
