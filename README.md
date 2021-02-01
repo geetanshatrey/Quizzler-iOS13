@@ -1,4 +1,3 @@
-
 <p align="center">
     <img src="Documentation/Logo.png" height="400">
 </p>
